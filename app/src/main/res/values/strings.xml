@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">耳年齢</string>
+    <string name="button_1">19歳以下</string>
+    <string name="button_2">24歳以下</string>
+    <string name="button_3">29歳以下</string>
+    <string name="button_4">39歳以下</string>
+    <string name="button_5">49歳以下</string>
+    <string name="button_6">59歳以下</string>
+    <string name="support_2">このアプリは簡易的な診断ツールです。\n詳細な検査は、耳鼻科専門医を受診してください。</string>
+</resources>
